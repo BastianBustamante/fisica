@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
-import Tkinter as tk
+import tkinter as tk
 import matplotlib.animation as ani
 import mpl_toolkits.mplot3d.axes3d as p3
 import numpy as np
 import matplotlib.pyplot as plt
-import Tkinter as tk
+import tkinter as tk
 import matplotlib.animation as ani
 import mpl_toolkits.mplot3d.axes3d as p3
 import numpy as np

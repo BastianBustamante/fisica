@@ -21,7 +21,7 @@ def toggle(event):
 
 
 def quit():
-    root.destroy()
+    raiz.destroy()
 
 def gen(n):
     t = 0
